@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="ch" table="sn_jul_8_1_tb1" version="3"><sys_choice_set action="DELETE"><element>ch</element><name>sn_jul_8_1_tb1</name><sys_class_name/><sys_created_by>admin</sys_created_by><sys_created_on/><sys_id>24e6eec9732233001c233096fbf6a76b</sys_id><sys_mod_count/><sys_name>ch</sys_name><sys_package display_value="jul_8_1" source="sn_jul_8_1">ceb106cd73e633001c233096fbf6a73d</sys_package><sys_policy/><sys_scope display_value="jul_8_1">ceb106cd73e633001c233096fbf6a73d</sys_scope><sys_update_name>sys_choice_sn_jul_8_1_tb1_ch</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-07-08 12:07:27</sys_updated_on></sys_choice_set></sys_choice></record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ch" table="sn_jul_8_1_tb1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CH1</label>
+            <language>en</language>
+            <name>sn_jul_8_1_tb1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-08 12:08:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e07eec9732233001c233096fbf6a7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-08 12:08:07</sys_updated_on>
+            <value>ch1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ch</element>
+            <name>sn_jul_8_1_tb1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-08 12:08:07</sys_created_on>
+            <sys_id>8017220d732233001c233096fbf6a709</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ch</sys_name>
+            <sys_package display_value="jul_8_1" source="sn_jul_8_1">ceb106cd73e633001c233096fbf6a73d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="jul_8_1">ceb106cd73e633001c233096fbf6a73d</sys_scope>
+            <sys_update_name>sys_choice_sn_jul_8_1_tb1_ch</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-08 12:08:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
