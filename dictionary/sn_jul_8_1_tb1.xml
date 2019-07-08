@@ -5,9 +5,7 @@
         <element label="COL3" max_length="10" name="col3" type="string"/>
         <element label="COL4" max_length="10" name="col4" type="string"/>
         <element choice="1" label="MYCHOICE" max_length="20" name="mychoice" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="CH1" value="ch"/>
-            </choice>
+            <choice/>
         </element>
         <index name="index">
             <element name="col3"/>
