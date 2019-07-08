@@ -3,7 +3,10 @@
         <element label="COL1" max_length="10" name="col1" type="string"/>
         <element label="COL2" max_length="20" name="col2" type="string"/>
         <element choice="1" label="myChoice" max_length="10" name="mychoice" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="CH1" value="ch1"/>
+                <element inactive_on_update="false" label="CH2" value="ch2"/>
+            </choice>
         </element>
     </element>
 </database>
